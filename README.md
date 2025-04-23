@@ -8,7 +8,7 @@
 - 🎖️ 30 AÑOS DE EXPERIENCIA NOS RESPALDAN.
 
 
-·· ⚠️ CONTAMOS CON FACTURACION.
+- ⚠️ CONTAMOS CON FACTURACION.
 ## 🆗👌🏆Estamos siendo recomendados por clientes de :
 - Ciudad Mendoza
 - Nogales
