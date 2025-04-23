@@ -1,0 +1,49 @@
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #fff;
+  }
+  
+  .header {
+    transition: background-color 1s ease !important;
+  }
+  
+  .text-menu {
+    color: #D4AF37;
+  }
+
+  #scrollTopBtn {
+    display: none;
+    position: fixed;
+    cursor: pointer;
+    bottom: 20px;
+    right: 20px;
+    z-index: 100;
+  }
+
+  .carousel-inner {
+    max-height: 500px;
+  }
+  .imagen-carrusel {
+    max-height: 500px; /* Ajusta la altura como gustes */
+    object-fit: contain; /* Asegura que la imagen no se recorte ni deforme */
+    background-color: black; /* Por si la imagen no cubre el área */
+    width: 100%;
+}
+
+.separador {
+    width: 80%;
+    height: 2px;
+    background-color: #D4AF37; /* o blanco si tu fondo es oscuro */
+    opacity: 0.3;
+  }
+  
+  .footer {
+    position: relative;
+    bottom: 0;
+    height: 80px;
+  }
+ 
+  .listAbout{
+    list-style-type: none;
+  }
